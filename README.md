@@ -15,3 +15,5 @@
 |Produtos|nome|Varchar|100|Nome do Produto|
 |Produtos|preço|Float||Preço do Produto|
 |Produtos|quant_estoque|Int||Quantidade de Produto no Estoque|
+
+PARTICIPANTES: Lohaine e Gabriela
