@@ -1,3 +1,5 @@
+![Padaria](https://github.com/user-attachments/assets/17f29dd4-9350-4d83-a10a-372d9736800f)
+
 |Entidade|Atributo|Tipo|Tamanho|Descrição|
 |---|---|---|---|---|
 |Cliente|id_cliente|Int||Identificador do Cliente|
